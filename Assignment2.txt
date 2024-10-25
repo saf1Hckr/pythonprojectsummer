@@ -1,0 +1,19 @@
+/Users/mubashirulislam/PycharmProjects/pythonProject1/.venv/bin/python /Users/mubashirulislam/PycharmProjects/pythonProject1/Assignemnt2.py
+                           100        500         1000
+native_sort            0.082970   0.534534    1.248598
+bubble_sort            3.375769  94.439507  466.416836
+bubble_sort_optimized  3.411770  96.612453  489.970684
+selection_sort         1.485348  46.194315  221.611023
+insertion_sort         1.937628  55.136204  278.367043
+binary_insertion_sort  1.454830  29.053926  149.373770
+cocktail_sort          2.987385  86.734056  439.895630
+shell_sort             0.818729   7.278919   21.739483
+merge_sort             1.339912   8.689404   22.425175
+quick_sort             1.203299   8.507729   21.706581
+heap_sort              1.168489   8.260489   20.765781
+counting_sort          1.515865   7.096291   15.955925
+radix_sort             1.119137   7.685423   17.336607
+bucket_sort            0.431538   2.249241    6.141663
+tim_sort               0.974417   8.050919   21.958828
+
+Process finished with exit code 0

@@ -1,0 +1,6 @@
+/Users/mubashirulislam/PycharmProjects/pythonProject1/.venv/bin/python /Users/mubashirulislam/PycharmProjects/pythonProject1/Assignment3.py
+                   10         50          100
+numpy_mult    0.038862   0.356913    1.610041
+simple_mult   0.078917   6.910086   56.885958
+divcong_mult  0.823975  53.756952  442.028046
+

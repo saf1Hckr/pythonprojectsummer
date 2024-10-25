@@ -1,0 +1,10 @@
+/Users/mubashirulislam/PycharmProjects/pythonProject1/.venv/bin/python /Users/mubashirulislam/PycharmProjects/pythonProject1/Assignment4.py
+0x + 2y = -8 [(0, -4), (2, -4), (8, -1), (-6, -1), (4, 8), (10, -3), (3, -3), (8, -6), (-7, -4), (5, -10)]
+The Convex Hull for the points [(0, -4), (2, -4), (8, -1), (-6, -1), (4, 8), (10, -3), (3, -3), (8, -6), (-7, -4), (5, -10)] is [[4.0, 8.0], [-6.0, -1.0], [-7.0, -4.0], [5.0, -10.0], [8.0, -6.0], [10.0, -3.0]]
+The area of the convex hull is 164.5
+The perimeter of the convex hull is 51.16782493384648
+The shape of convex hull is Not Equable
+The closest pair of points is: ((2, -4), (3, -3)) with a distance of 1.41
+The furthest pair of points is: ((4, 8), (5, -10)) with a distance of 18.03
+
+Process finished with exit code 0

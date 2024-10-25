@@ -1,0 +1,16 @@
+/Users/mubashirulislam/PycharmProjects/pythonProject1/.venv/bin/python /Users/mubashirulislam/PycharmProjects/pythonProject1/Assignment1.py
+Matplotlib is building the font cache; this may take a moment.
+                                   100        1000        10000
+native_search                   0.634909   4.892111   52.740574
+linear_search                   1.323938  14.454842  191.322327
+binary_search_recursive         0.783205   1.355886    2.487183
+binary_search_iterative         0.729322   1.296282    2.127647
+binary_search_iterative_better  0.832558   1.273155    2.122879
+binary_search_randomized        3.721952   6.667614   11.019468
+exponential_search              1.034737   1.657724    3.252029
+jump_search                     3.197670   9.086370   31.499386
+interpolation_search            0.978708   1.366377    1.979113
+fibonaccian_search              1.742363   2.990961    4.828215
+ternary_search                  0.889540   1.677513    2.920389
+
+Process finished with exit code 0

@@ -1,0 +1,8 @@
+/Users/mubashirulislam/PycharmProjects/pythonProject1/.venv/bin/python /Users/mubashirulislam/PycharmProjects/pythonProject1/Assignment9.py
+prim_mst has MST 226 [[0, 9, 16], [9, 3, 21], [0, 4, 29], [4, 1, 11], [9, 5, 42], [0, 2, 56], [2, 8, 8], [8, 7, 39], [7, 6, 4]]
+kruskal_mst has MST 226 [[6, 7, 4], [2, 8, 8], [1, 4, 11], [0, 9, 16], [3, 9, 21], [0, 4, 29], [7, 8, 39], [5, 9, 42], [0, 2, 56]]
+                   10        20        30         40         50
+prim_mst     0.042200  0.130892  0.155210   0.237942   0.288010
+kruskal_mst  0.439882  2.321005  9.242058  25.744200  49.320936
+
+Process finished with exit code 0
